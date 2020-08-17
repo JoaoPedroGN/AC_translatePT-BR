@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AC_MyOriginalDied.label>minha cópia original {0} morreu</AC_MyOriginalDied.label>
+  <AC_MyOriginalDied.description>Minha cópia original está morta. Eu estou sozinho novamente</AC_MyOriginalDied.description>
+
+  <AC_MyCopyDied.label>minha cópia {0} morreu</AC_MyCopyDied.label>
+  <AC_MyCopyDied.description>Minha cópia está morta. Eu estou sozinho novamente</AC_MyCopyDied.description>
+
+</LanguageData>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <AC_WrongGender.label>gênero de capa diferente</AC_WrongGender.label>
+    <AC_WrongGender.description>O gênero da minha capa não é meu, parece errado.</AC_WrongGender.description>
+
+	<AC_WrongGenderDouble.label>gênero de capa diferente</AC_WrongGenderDouble.label>
+    <AC_WrongGenderDouble.description>O gênero da minha capa não é meu, parece errado.</AC_WrongGenderDouble.description>
+
+	<AC_NewSleeve.label>novo corpo</AC_NewSleeve.label>
+    <AC_NewSleeve.description>Eu tenho um novo corpo, vai demorar um pouco para me acostumar.</AC_NewSleeve.description>
+
+	<AC_NewSleeveDouble.label>novo corpo</AC_NewSleeveDouble.label>
+    <AC_NewSleeveDouble.description>Eu tenho um novo corpo, vai demorar um pouco para me acostumar.</AC_NewSleeveDouble.description>
+
+	<AC_MansBody.label>O corpo de um homem</AC_MansBody.label>
+    <AC_MansBody.description>Estou no corpo de um homem, não gosto disso!</AC_MansBody.description>
+
+	<AC_WomansBody.label>O corpo de uma mulher</AC_WomansBody.label>
+    <AC_WomansBody.description>Estou no corpo de uma mulher, não gosto disso!</AC_WomansBody.description>
+
+	<AC_LostMySoul.label>Perdi minha alma</AC_LostMySoul.label>
+    <AC_LostMySoul.description>Isso vai contra tudo em que acredito, estou com um cartucho e perdi minha alma ... Nunca vou me acostumar com isso.</AC_LostMySoul.description>
+
+	<AC_ColonyUsesStacks.label>Colônia usa cartuchos</AC_ColonyUsesStacks.label>
+    <AC_ColonyUsesStacks.description>As pessoas nesta colônia usam cartuchos, eles não sabem que é errado?</AC_ColonyUsesStacks.description>
+
+	<AC_JustCopy.label>Apenas uma cópia</AC_JustCopy.label>
+    <AC_JustCopy.description>Não sou nada mais do que uma cópia ... O que sou mesmo?</AC_JustCopy.description>
+
+	<AC_LostMySpouse.label>Perdi minha esposa</AC_LostMySpouse.label>
+    <AC_LostMySpouse.description>Minha esposa ficou com minha cópia original, mas ainda os amo. Isso não é justo ...</AC_LostMySpouse.description>
+
+	<AC_LostMyFiance.label>Perdi meu noivo</AC_LostMyFiance.label>
+    <AC_LostMyFiance.description>Meu noivo ficou com minha cópia original, mas ainda os amo. Isso não é justo ...</AC_LostMyFiance.description>
+
+	<AC_LostMyLover.label>Perdi meu amante</AC_LostMyLover.label>
+    <AC_LostMyLover.description>Meu amante ficou com minha cópia original, mas ainda os amo. Isso não é justo ...</AC_LostMyLover.description>
+
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <AC_EmptyCorticalStack.label>cartucho cortical vazio</AC_EmptyCorticalStack.label>
+    <AC_EmptyCorticalStack.description>Um implante vazio de ultra tecnologia que pode armazenar a consciência de um humano. Sendo implantado diretamente no pescoço de uma pessoa, traumas por força brusca e balas na cabeça e pescoço devem ser evitados a todo custo. Extremamente raro e difícil de fazer.</AC_EmptyCorticalStack.description>
+
+    <AC_FilledCorticalStack.label>cartucho cortical</AC_FilledCorticalStack.label>
+    <AC_FilledCorticalStack.description>Um implante de ultra tecnologia com a consciência de um humano armazenada nele. Pode ser implantado em uma capa vazia ou em um corpo aleatório para trazer de volta a pessoa armazenada nela.</AC_FilledCorticalStack.description>
+
+</LanguageData>

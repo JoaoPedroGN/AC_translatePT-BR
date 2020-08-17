@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <AC_FreeMind.label>mente livre</AC_FreeMind.label>
+    <AC_FreeMind.description>{PAWN_nameDef} sempre viu seu corpo como nada mais do que um recipiente para sua mente. {PAWN_pronoun} não se preocupa com o sexo, idade ou aparência de um corpo.</AC_FreeMind.description>
+
+    <AC_Sleever.label>Cobra</AC_Sleever.label>
+    <AC_Sleever.description>{PAWN_nameDef} está acostumado a trocar de capas como se fossem roupas. {PAWN_pronoun} não se importa com a frequência com que {PAWN_pronoun} troca as capas de {PAWN_objective} ou qual capa {Pawn_pronoun} está usando no momento.</AC_Sleever.description>
+
+    <AC_AntiStack.label>Uma alma</AC_AntiStack.label>
+    <AC_AntiStack.description>{PAWN_nameDef} considera o uso de cartuchos e capas como amoral. {PAWN_pronoun} acredita que os humanos têm apenas uma vida e que prolongar suas vidas por meio da tecnologia é um pecado.</AC_AntiStack.description>
+
+</LanguageData>

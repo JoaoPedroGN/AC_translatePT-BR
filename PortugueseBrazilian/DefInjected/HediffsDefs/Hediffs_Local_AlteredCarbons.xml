@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <AC_CorticalStack.label>cartucho cortical</AC_CorticalStack.label>
+    <AC_CorticalStack.labelNoun>um cartucho cortical</AC_CorticalStack.labelNoun>
+    <AC_CorticalStack.description>um cartucho cortical instalado.</AC_CorticalStack.description>
+
+    <AC_Sleeve_Quality_Low.label>qualidade da capa</AC_Sleeve_Quality_Low.label>
+    <AC_Sleeve_Quality_Low.description>Este corpo cresceu rápido e precariamente. É frágil e doentio.</AC_Sleeve_Quality_Low.description>
+
+    <AC_Sleeve_Quality_Standart.label>qualidade da capa</AC_Sleeve_Quality_Standart.label>
+    <AC_Sleeve_Quality_Standart.description>Um corpo básico cresceu adequadamente.</AC_Sleeve_Quality_Standart.description>
+    
+    <AC_Sleeve_Quality_High.label>qualidade da capa</AC_Sleeve_Quality_High.label>
+    <AC_Sleeve_Quality_High.description>Um corpo que cresceu perfeitamente. É forte e não tem falhas.</AC_Sleeve_Quality_High.description>
+
+    <AC_EmptySleeve.label>capa vazia</AC_EmptySleeve.label>
+    <AC_EmptySleeve.description>uma capa vazia.</AC_EmptySleeve.description>
+</LanguageData>

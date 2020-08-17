@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <AlteredCarbon.Name>Nome</AlteredCarbon.Name>
+    <AlteredCarbon.faction>Facção</AlteredCarbon.faction>
+    <AlteredCarbon.childhood>Infância</AlteredCarbon.childhood>
+    <AlteredCarbon.adulthood>Idade adulta</AlteredCarbon.adulthood>
+    <AlteredCarbon.ageChronologicalTicks>Idade cronologica</AlteredCarbon.ageChronologicalTicks>
+    <AlteredCarbon.ExtractStack>Extrair cartucho</AlteredCarbon.ExtractStack>
+    <AlteredCarbon.DuplicateStack>Duplicar cartucho</AlteredCarbon.DuplicateStack>
+    <AlteredCarbon.WipeStack>Limpar cartucho</AlteredCarbon.WipeStack>
+    <AlteredCarbon.DestroyedStack>Destruir cartucho</AlteredCarbon.DestroyedStack>
+    <AlteredCarbon.DestroyedStackDesc>Um cartucho vazio foi destruído por ações ineptas de {PAWN_labelShort}</AlteredCarbon.DestroyedStackDesc>
+    <AlteredCarbon.EmptySleeve>Capa vazia</AlteredCarbon.EmptySleeve>
+    <AlteredCarbon.EmptyStack>Cartucho vazio</AlteredCarbon.EmptyStack>
+    <AlteredCarbon.EmptyStackDesc>Cartucho vazio</AlteredCarbon.EmptyStackDesc>
+    <AlteredCarbon.SleeveDeath>Capa morta</AlteredCarbon.SleeveDeath>
+    <AlteredCarbon.SleeveDeathDesc>Capa morta</AlteredCarbon.SleeveDeathDesc>
+    <AlteredCarbon.PawnDiedBecauseOf>A capa de {PAWN_labelShort} morreu. Causa: {1}.</AlteredCarbon.PawnDiedBecauseOf>
+    <AlteredCarbon.PawnDied>A capa de {1_labelShort} morreu.</AlteredCarbon.PawnDied>
+    <AlteredCarbon.SleveOf>Capa de </AlteredCarbon.SleveOf>
+    <AlteredCarbon.EmptyStackConfirmation>Excluindo cartucho:\nAVISO! Você está prestes a limpar este cartucho, matando a pessoa salva nela. Você tem certeza que quer continuar?</AlteredCarbon.EmptyStackConfirmation>
+    <AlteredCarbon.SleeveCustomization>Costumização de capa</AlteredCarbon.SleeveCustomization>
+    <AlteredCarbon.NoSleeve>Sem capa</AlteredCarbon.NoSleeve>
+    <AlteredCarbon.Sleeve>Capa</AlteredCarbon.Sleeve>
+    <AlteredCarbon.CannotCopyNoIntellectual>Duplicar cartucho (requer habilidade intelectual de 10 ou superior)</AlteredCarbon.CannotCopyNoIntellectual>
+    <AlteredCarbon.CannotCopyNoOtherEmptyStacks>Duplicar cartucho (sem cartuchos vazios no mapa)</AlteredCarbon.CannotCopyNoOtherEmptyStacks>
+    <AlteredCarbon.GoodwillChangedReason_ErasedPawn>Apagar {PAWN_labelShort}</AlteredCarbon.GoodwillChangedReason_ErasedPawn>
+    <AlteredCarbon.CantWipeStackTooDumb>Limpar cartucho (requer habilidade intelectual de 5 ou superior)</AlteredCarbon.CantWipeStackTooDumb>
+    <AlteredCarbon.CancelSleeveBodyGrowing>Cancelar desenvolvimento de capa</AlteredCarbon.CancelSleeveBodyGrowing>
+    <AlteredCarbon.CancelSleeveBodyGrowingDesc>Cancelar desenvolvimento de capa</AlteredCarbon.CancelSleeveBodyGrowingDesc>
+    <Accept>Aceitar</Accept>
+    <AlteredCarbon.CreateSleeveBody>Criar capa</AlteredCarbon.CreateSleeveBody>
+    <AlteredCarbon.CreateSleeveBodyDesc>Criar capa</AlteredCarbon.CreateSleeveBodyDesc>
+    <AlteredCarbon.ReleaseSleeve>Liberar capa</AlteredCarbon.ReleaseSleeve>
+    <AlteredCarbon.SleeveCustomization>Costumização de capa</AlteredCarbon.SleeveCustomization>
+    <BodyShape>Forma do corpo</BodyShape>
+    <BodyTypeReplace>Substituição do tipo de corpo</BodyTypeReplace>
+    <Cancel>Cancelar</Cancel>
+    <GrowthProgress>Progresso de crescimento: </GrowthProgress>
+    <HairColour>Cor do cabelo</HairColour>
+    <HairType>Tipo de cabelo</HairType>
+    <HeadShape>Formato da cabeça</HeadShape>
+    <HeadTypeReplace>Substituição do tipo de cabeça</HeadTypeReplace>
+    <LevelOfBeauty>Nível de beleza</LevelOfBeauty>
+    <LevelofQuality>Nível de qualidade</LevelofQuality>
+    <RequireBiomass>Requer biomassa</RequireBiomass>
+    <SkinColour>Cor de pele</SkinColour>
+    <TimeToGrow>Hora de crescer</TimeToGrow>
+
+</LanguageData>

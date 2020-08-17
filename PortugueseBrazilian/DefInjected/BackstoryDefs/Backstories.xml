@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<LanguageData>
+
+    <AC_EmptySleeveChildhood.title>Capa vazia</AC_EmptySleeveChildhood.title>
+    <AC_EmptySleeveChildhood.titleShort>Capa vazia</AC_EmptySleeveChildhood.titleShort>
+    <AC_EmptySleeveChildhood.baseDescription>Crescido em um tanque, este corpo tem basicamente morte cerebral e não pode viver por conta própria.</AC_EmptySleeveChildhood.baseDescription>
+
+</LanguageData>-->
+
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/ThingDef[defName="AC_EmptySleeveChildhood"]/title</xpath>
+    <value>
+      <title>Capa vazia</title>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/ThingDef[defName="AC_EmptySleeveChildhood"]/titleShort</xpath>
+    <value>
+      <titleShort>Capa vazia</titleShort>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>/Defs/BackstoryDefs[defName="AC_EmptySleeveChildhood"]/baseDescription</xpath>
+    <value>
+      <baseDescription>Crescido em um tanque, este corpo tem basicamente morte cerebral e não pode viver por conta própria.</baseDescription>
+    </value>
+  </Operation>
+</Patch>

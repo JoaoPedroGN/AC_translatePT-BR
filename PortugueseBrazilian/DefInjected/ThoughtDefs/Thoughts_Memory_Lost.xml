@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <AC_MyOriginalLostMale.label>minha cópia original {0} foi perdida</AC_MyOriginalLostMale.label>
+    <AC_MyOriginalLostMale.description>Minha cópia original foi perdida. Espero que ele volte para nós algum dia.</AC_MyOriginalLostMale.description>
+
+    <AC_MyOriginalLostFemale.label>minha cópia original {0} foi perdida</AC_MyOriginalLostFemale.label>
+    <AC_MyOriginalLostFemale.description>Minha cópia original foi perdida. Espero que ela volte para nós algum dia.</AC_MyOriginalLostFemale.description>
+
+    <AC_MyCopyLostMale.label>minha cópia {0} foi perdida</AC_MyCopyLostMale.label>
+    <AC_MyCopyLostMale.description>Minha cópia foi perdida. Espero que ele volte para nós algum dia.</AC_MyCopyLostMale.description>
+
+    <AC_MyCopyLostFemale.label>minha cópia {0} foi perdida</AC_MyCopyLostFemale.label>
+    <AC_MyCopyLostFemale.description>Minha cópia foi perdida. Espero que ela volte para nós algum dia.</AC_MyCopyLostFemale.description>
+</LanguageData>

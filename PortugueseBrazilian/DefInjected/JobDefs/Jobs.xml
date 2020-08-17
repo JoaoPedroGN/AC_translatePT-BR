@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <AC_ExtractStack.reportString>extrai cartucho cortical de TargetA</AC_ExtractStack.reportString>
+
+    <AC_WipeStack.reportString>limpar cartucho cortical</AC_WipeStack.reportString>
+
+    <AC_CopyStack.reportString>copiar cartucho cortical</AC_CopyStack.reportString>
+
+    <AC_ReleaseSleeve.reportString>Liberando capa</AC_ReleaseSleeve.reportString>
+</LanguageData>

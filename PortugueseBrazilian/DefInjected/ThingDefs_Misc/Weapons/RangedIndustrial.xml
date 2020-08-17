@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <AC_Gun_MACRevolver.label>Revólver MAC</AC_Gun_MACRevolver.label>
+    <AC_Gun_MACRevolver.description>Um revólver de alto calibre usando tecnologia de carga experimental. É muito poderoso, tem um alcance decente, mas leva muito tempo para recarregar.</AC_Gun_MACRevolver.description>
+
+    <AC_Bullet_MACRevolver.label>bala de revólver MAC</AC_Bullet_MACRevolver.label>
+
+    <AC_Gun_BullpupPistol.label>pistola bullpup</AC_Gun_BullpupPistol.label>
+    <AC_Gun_BullpupPistol.description>Uma leve pistola bullpup industrial tardio. Tem um alcance limitado, mas dispara rapidamente.</AC_Gun_BullpupPistol.description>
+
+    <AC_Bullet_BullpupPistol.label>bala de pistola bullpup</AC_Bullet_BullpupPistol.label>
+
+    <AC_Gun_QuickfirePistol.label>pistola de fogo rápido</AC_Gun_QuickfirePistol.label>
+    <AC_Gun_QuickfirePistol.description>Uma leve pistola automática industrial tardio. Possui alcance médio e pode ser recarregada rapidamente.</AC_Gun_QuickfirePistol.description>
+
+    <AC_Bullet_QuickfirePistol.label>bala de pistola de fogo rápido</AC_Bullet_QuickfirePistol.label>
+
+    <AC_Gun_ShockPDW.label>choque PDW</AC_Gun_ShockPDW.label>
+    <AC_Gun_ShockPDW.description>Um lançador de balas leve e industrial tardio. Ele tem um alcance limitado, mas dispara com rapidez e precisão para seu tamanho.</AC_Gun_ShockPDW.description>
+
+    <AC_Bullet_ShockPDW.label>bala SMG pesada</AC_Bullet_ShockPDW.label>
+    
+
+    <AC_Gun_MACRifle.label>Rifle MAC</AC_Gun_MACRifle.label>
+    <AC_Gun_MACRifle.description>Um rifle de assalto de alto calibre usando tecnologia experimental de carga. Tem bom alcance, boa potência e boa precisão.</AC_Gun_MACRifle.description>
+
+    <AC_Bullet_MACRifle.label>bala de Rifle MAC</AC_Bullet_MACRifle.label>
+
+</LanguageData>
