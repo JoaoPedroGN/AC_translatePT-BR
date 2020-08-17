@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--<LanguageData>
+<LanguageData>
 
     <AC_SleeveIncubator.label>incubadora de capa</AC_SleeveIncubator.label>
     <AC_SleeveIncubator.description>Um tanque ultra-tecnológico conectado a sistemas avançados de suporte de vida e um núcleo de IA. Usada por 1% dos ricos em mundos ultra-tecnológicos e indivíduos menos confiáveis em rimworlds para cultivar capas personalizadas, a incubadora de capas é capaz de fazer crescer qualquer corpo humano que se possa imaginar.</AC_SleeveIncubator.description>
 
-</LanguageData>-->
-
-<Patch>
-  <Operation Class="PatchOperationReplace">
-    <xpath>/Defs/ThingDef[defName="AC_SleeveIncubator"]/label</xpath>
-    <value>
-      <label>incubadora de capa</label>
-    </value>
-  </Operation>
-
-  <Operation Class="PatchOperationReplace">
-    <xpath>/Defs/ThingDef[defName="AC_SleeveIncubator"]/description</xpath>
-    <value>
-      <description>Um tanque ultra-tecnológico conectado a sistemas avançados de suporte de vida e um núcleo de IA. Usada por 1% dos ricos em mundos ultra-tecnológicos e indivíduos menos confiáveis em rimworlds para cultivar capas personalizadas, a incubadora de capas é capaz de fazer crescer qualquer corpo humano que se possa imaginar.</description>
-    </value>
-  </Operation>
-</Patch>
+</LanguageData>
